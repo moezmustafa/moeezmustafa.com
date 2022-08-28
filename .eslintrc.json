@@ -1,0 +1,15 @@
+
+{
+  "root": true, 
+  "extends": "next"
+  "rules" : {
+	  "no-saved-vars" : {
+		  "error" ,
+
+		 {
+		"VargsIgnorePattern": "^_",
+		"varsIgonrePattern": "^_"
+		 }
+		}
+  }
+}
