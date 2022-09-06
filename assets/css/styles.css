@@ -627,3 +627,13 @@ img {
   width: 70px;
 
 }
+
+
+
+.contact__icon{
+font-size: 1.2rem;
+display: flex;
+padding-left: 5px;
+
+}
+
