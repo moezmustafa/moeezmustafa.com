@@ -359,7 +359,7 @@ img {
 
 .work__img img {
  
-  transition: 1s;
+  transition: 0.4s;
 }
 
 .work__img img:hover {
