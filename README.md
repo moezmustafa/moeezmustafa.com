@@ -38,7 +38,12 @@ The site is hosted at ,
 
 ![SASS](https://img.shields.io/badge/javascript-yellow.svg?style=for-the-badge&logo=javascript&logoColor=white)
 
-
+## Main Features 
+. Resposive 
+. Minimalist Ux
+. Elaborative Texts
+. Easy to Navigate Ui
+. Good use of negative space 
 
 ## Deployment
 
