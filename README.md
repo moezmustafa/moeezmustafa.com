@@ -3,6 +3,10 @@
 
 My personal website and porfolio project . The test verion is hosted via a fork of this repo on the 'vercel.com'
 
+The site is hosted at 
+[![moeezmustafa.com](https://img.shields.io/badge/moeezmustafa.com-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://moeezmustafa.com/)
+
+
 
 
 ## Demo
