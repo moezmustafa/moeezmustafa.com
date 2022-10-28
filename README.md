@@ -9,7 +9,7 @@ The site is hosted at ,
 
 
 
-## Demo
+## Demo GIF
 
  <img align='center' src="/Doc Images/sit scroll.gif" width="430"> 
 
